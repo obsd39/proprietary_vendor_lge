@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/bin/qcks:system/vendor/bin/qcks \
     vendor/lge/mako/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/lge/mako/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
-    vendor/lge/mako/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/lge/mako/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
     vendor/lge/mako/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lge/mako/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
