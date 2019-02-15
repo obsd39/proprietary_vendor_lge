@@ -19,11 +19,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/lge/mako/proprietary/vendor/bin/ks:system/vendor/bin/ks \
     vendor/lge/mako/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
+    vendor/lge/mako/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
     vendor/lge/mako/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/lge/mako/proprietary/vendor/bin/qcks:system/vendor/bin/qcks \
     vendor/lge/mako/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/lge/mako/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
     vendor/lge/mako/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
+    vendor/lge/mako/proprietary/vendor/bin/thermald:system/vendor/bin/thermald \
     vendor/lge/mako/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lge/mako/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
     vendor/lge/mako/proprietary/vendor/firmware/bcm2079x_firmware.ncd:system/vendor/firmware/bcm2079x_firmware.ncd \
